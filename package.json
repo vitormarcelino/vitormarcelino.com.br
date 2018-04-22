@@ -1,0 +1,11 @@
+{
+  "name": "vitormarcelino.com.br",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "author": "Vitor Marcelino",
+  "license": "MIT",
+  "dependencies": {
+    "jquery.terminal": "^1.14.0"
+  }
+}
