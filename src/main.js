@@ -28,7 +28,7 @@ var helpMessage = "VITOR MARCELINO | DEVOPS/BACKEND DEVELOPER \n \
     c, contact : display my contacts\n \
 ";
 
-$('body').terminal(function (command, term) {
+$('body').terminal(function (command) {
     if (command == 'help' || command == 'h') {
         this.echo(helpMessage);
     } else
